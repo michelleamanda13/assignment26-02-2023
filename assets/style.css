@@ -1,0 +1,29 @@
+#unordered-one{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#unordered-one li{
+    margin: 1rem;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 2rem;
+}
+
+.logo{
+    margin-left: 3rem;
+}
+
+.button-blue{
+    background-color: blue;
+    color: aliceblue;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: large;
+}
